@@ -1,1 +1,6 @@
 B22 Learning Git
+
+Opa we made first commit
+Commit is almost like talking a picture
+of a change at certain moment compared
+to previous moment
